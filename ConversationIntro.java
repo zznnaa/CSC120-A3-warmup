@@ -9,7 +9,7 @@ public class ConversationIntro {
   
   /** Returns an integer one larger than its input */
   public int plusOne(int n) {
-    // n = n+1;
+    n = n+1;
     return n;
   }
 
